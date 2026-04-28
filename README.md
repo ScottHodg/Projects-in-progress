@@ -49,7 +49,16 @@ Docker Skill: Use a python:3.9-slim or alpine base image and multi-stage builds 
 
 The Goal: Understanding how to make production-ready, lightweight container
 # 4. Reworking/Expanding past projects/assignments #inprogress
-reworking student assignments
+Reworking student assignments
+
+The following below will be improved. I will version the old ones as such v1.0 the new ones will be called v2.0. I will note below each of the project how they were improved.
+
+AI-Health-Triage
+
+TTC-Pyspark-MongoDB 
+
+Bitcoin-History-Kafka-Streaming
+
 
 # 5. Finance/Crypto Real-Time Pipeline #todo
 Idea: Building a "Volatility Guard" that predicts price spikes in Bitcoin/Ethereum and triggers alerts.
