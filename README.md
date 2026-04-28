@@ -67,4 +67,4 @@ MLOps/ETL Component: * Storage: Mimic a "Lakehouse" by using DuckDB or SQLite to
 
 CI/CD: Set up GitHub Actions to automatically run your unit tests and retrain the model whenever you push new code (simulating Azure ML Pipelines).
 
-Monitoring: Use Evidently AI (open-source) to monitor "Data Drift"—detecting if the new incoming sales data looks significantly different from your training data.
+Monitoring: Use Evidently AI (open-source) to monitor "Data Drift" detecting if the new incoming sales data looks significantly different from your training data.
