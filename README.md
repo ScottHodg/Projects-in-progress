@@ -61,7 +61,7 @@ Data Versioning: Use DVC (Data Version Control) to version your datasets. This m
 Deployment: Containerize the prediction engine using Docker and deploy it as a microservice (similar to how SageMaker endpoints work).
 
 # 6. Retail/E-commerce Demand Forecasting #todo
-Idea: Predicting inventory needs for a small business using public "Brazilian E-Commerce" datasets or simulated Shopify data.
+Idea: Predicting inventory needs for a small business using public E-Commerce datasets or simulated Shopify data.
 
 MLOps/ETL Component: * Storage: Mimic a "Lakehouse" by using DuckDB or SQLite to store transformed tables.
 
